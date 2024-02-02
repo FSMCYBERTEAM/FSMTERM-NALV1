@@ -8,4 +8,4 @@ cd yi açın ve şu kodu yazın
 
 # TERMUX STARTİNG PYTHON
 
-FSMTERMİNALV1.py
+python3 FSMTERMİNALV1.py
