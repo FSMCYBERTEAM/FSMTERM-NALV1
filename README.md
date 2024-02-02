@@ -1,2 +1,11 @@
 # FSMTERM-NALV1
 FSMTERMİNALV2 YAKINDA GELECEK
+
+
+# TERMUX KURULUM (STARTİNG)
+git clone'u kurun
+cd yi açın ve şu kodu yazın
+
+# TERMUX STARTİNG PYTHON
+
+FSMTERMİNALV1.py
